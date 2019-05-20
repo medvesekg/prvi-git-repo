@@ -1,0 +1,36 @@
+.title-row {
+    margin-bottom: 100px;
+}
+
+.item {
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+    margin: 0 auto;
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    margin: 0 30px;
+    transition: .5s;
+}
+
+.item:hover {
+    background-color: grey;
+}
+
+.item img {
+    height: 100%;
+}
+
+.selection-row {
+    margin-bottom: 100px;
+}
+
+.computers-choice-row {
+    margin-bottom: 100px;
+}
+
+.result-image {
+    height: 300px;
+}
